@@ -6,14 +6,14 @@ Arduino based BlackMagicDesign switcher controller.
 
 
 ### Prerequisites
--Libraries:
---https://github.com/kasperskaarhoj/SKAARHOJ-Open-Engineering/tree/master/ArduinoLibs
-VirtualWire
--Hardware:
---Arduino Mega
---PS/2 keyboard
---433MHz transmitter
---433MHz Superheterodyne Receiver
+1. Libraries:
+	- https://github.com/kasperskaarhoj/SKAARHOJ-Open-Engineering/tree/master/ArduinoLibs
+	- VirtualWire
+2. Hardware:
+	- Arduino Mega
+	- PS/2 keyboard
+	- 433MHz transmitter
+	- 433MHz Superheterodyne Receiver
 
 
 ## Built With
